@@ -1,5 +1,5 @@
 ---
-{"title":"首页","dg-home":true,"dg-pinned":true,"dg-publish":true,"permalink":"/home/","pinned":true,"tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"title":"教学助手","dg-home":true,"dg-pinned":true,"dg-publish":true,"permalink":"/home/","pinned":true,"tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 
