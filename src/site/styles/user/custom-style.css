@@ -106,6 +106,8 @@ body .toc-container li::before {
 }
 
 body nav.navbar {
+	opacity: 0.88;
+    	height: 55px;
 	top: 10px;
 	right: 10px;
 	left: 10px;
