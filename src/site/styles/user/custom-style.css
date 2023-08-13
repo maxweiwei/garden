@@ -31,7 +31,7 @@ body nav.filetree-sidebar>.folder {
 
 body nav.filetree-sidebar .notelink {
 	padding: 5px 0 5px 8px;
-	border-radius: 10px;
+	border-radius: 10px 0 0 10px;
 }
 
 body nav.filetree-sidebar .notelink a::before {
@@ -72,6 +72,8 @@ body header {
 }
 
 body .content{max-width:900px;}
+body .cm-s-obsidian{line-height:1.8}
+
 
 body .cm-s-obsidian .table-wrapper {
 	overflow-x: scroll;
