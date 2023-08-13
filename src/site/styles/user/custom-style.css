@@ -1,3 +1,9 @@
+@media(hover: hover) {
+    a:hover,.external-link:hover,.markdown-rendered .internal-link.is-unresolved:hover {
+        color:var(--link-color);
+    }
+}
+
 body nav.filetree-sidebar {
 	position: fixed;
 	top: 85px;
