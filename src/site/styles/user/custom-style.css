@@ -7,7 +7,7 @@ body nav.filetree-sidebar {
 	height: calc(100% - 160px);
 	border-radius: 10px;
 	flex-direction: column;
-	max-width:900px;
+	width:300px;
 }
 
 body nav.filetree-sidebar .search-button {
@@ -64,6 +64,8 @@ body nav.toc>ol {
 body header {
 	margin-bottom: 1.8em;
 }
+
+body .content{max-width:900px;}
 
 body .cm-s-obsidian .table-wrapper {
 	overflow-x: scroll;
