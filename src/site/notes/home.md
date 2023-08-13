@@ -1,5 +1,5 @@
 ---
-{"title":"AI 导读","dg-home":true,"dg-pinned":true,"dg-publish":true,"permalink":"/home/","pinned":true,"tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":""}
+{"title":"AI 导读","dg-note-icon":"3","dg-home":true,"dg-pinned":true,"dg-publish":true,"permalink":"/home/","pinned":true,"tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"3"}
 ---
 
 
