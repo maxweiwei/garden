@@ -188,6 +188,12 @@ body code[class*=language-],body pre[class*=language-] {
 	text-shadow: unset;
 }
 
+body .filename{
+	white-space: nowrap;
+	text-overflow: ellipsis;
+	overflow: hidden;
+}
+
 body.title-note-icon .cm-s-obsidian>header>h1[data-note-icon=stone]::before,body.filetree-note-icon .filename[data-note-icon=stone]::before,body.links-note-icon .internal-link[data-note-icon=stone]::before,body.backlinks-note-icon .backlink[data-note-icon=stone]::before {
 	background-image: url(/img/stone.svg);
 }
