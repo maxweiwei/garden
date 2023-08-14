@@ -1,3 +1,7 @@
+.theme-light{
+    --background:rgb(239, 237, 230)
+}
+
 @media(hover: hover) {
     a:hover,.external-link:hover,.markdown-rendered .internal-link.is-unresolved:hover {
         color:var(--link-color);
