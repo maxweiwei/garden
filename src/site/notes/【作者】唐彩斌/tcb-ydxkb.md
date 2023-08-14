@@ -1,5 +1,5 @@
 ---
-{"title":"“研读新课标”五讲","tags":["唐彩斌","新课标"],"dg-publish":true,"permalink":"/【作者】唐彩斌/tcb-ydxkb/","dgPassFrontmatter":true,"noteIcon":""}
+{"title":"“研读新课标”七讲","tags":["唐彩斌","新课标"],"dg-publish":true,"permalink":"/【作者】唐彩斌/tcb-ydxkb/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 
