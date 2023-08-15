@@ -17,11 +17,11 @@
 
 | 标题                                             | 时间              |
 | ---------------------------------------------- | --------------- |
-| [[9 卡片盒/新课标/数感\|数感]]                        | 2023/08/15 1:31 |
-| [[3 作者专辑/许卫兵\|许卫兵]]                         | 2023/08/15 1:30 |
-| [[3 作者专辑/唐彩斌\|唐彩斌]]                         | 2023/08/15 1:29 |
-| [[3 作者专辑/顾志能\|顾志能]]                         | 2023/08/15 1:29 |
-| [[1 小学数学教师/小学数学教师 2023-01\|小学数学教师 2023-01]] | 2023/08/15 1:28 |
+| [[3 作者专辑/许卫兵\|许卫兵]]                         | 2023/08/15 1:44 |
+| [[3 作者专辑/唐彩斌\|唐彩斌]]                         | 2023/08/15 1:44 |
+| [[3 作者专辑/顾志能\|顾志能]]                         | 2023/08/15 1:44 |
+| [[3 作者专辑/郑毓信\|郑毓信]]                         | 2023/08/15 1:43 |
+| [[1 小学数学教师/小学数学教师 2023-01\|小学数学教师 2023-01]] | 2023/08/15 1:40 |
 
 { .block-language-dataview}
 
@@ -40,8 +40,6 @@
 ### 全站数据
 
 <p><span><p>已创建 26 篇文档、6 个标签</p></span></p>
-
-<p><span><p><a class="internal-link" data-href="#郑毓信" href="#郑毓信" target="_blank" rel="noopener"></a><a href="#郑毓信" class="tag" target="_blank" rel="noopener">#郑毓信</a>(2) <a class="internal-link" data-href="#课标标准" href="#课标标准" target="_blank" rel="noopener"></a><a href="#课标标准" class="tag" target="_blank" rel="noopener">#课标标准</a>(1) <a class="internal-link" data-href="#课程标准" href="#课程标准" target="_blank" rel="noopener"></a><a href="#课程标准" class="tag" target="_blank" rel="noopener">#课程标准</a>(1) <a class="internal-link" data-href="#深度教学" href="#深度教学" target="_blank" rel="noopener"></a><a href="#深度教学" class="tag" target="_blank" rel="noopener">#深度教学</a>(1) <a class="internal-link" data-href="#数学教育研究手册" href="#数学教育研究手册" target="_blank" rel="noopener"></a><a href="#数学教育研究手册" class="tag" target="_blank" rel="noopener">#数学教育研究手册</a>(1) <a class="internal-link" data-href="#唐彩斌" href="#唐彩斌" target="_blank" rel="noopener"></a><a href="#唐彩斌" class="tag" target="_blank" rel="noopener">#唐彩斌</a>(1)</p></span></p>
 
 ### 授人以渔
 
