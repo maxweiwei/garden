@@ -1,6 +1,7 @@
 :root{
-    --red:#42b983;
-    --red-deep:#42b983;
+	--red:#42b983;
+	--red-deep:#42b983;
+	--beige: #e6dbcc;
 }
 .theme-light{
     background:rgba(239, 237, 230,0.6)
