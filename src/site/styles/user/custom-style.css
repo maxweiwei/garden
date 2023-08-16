@@ -1,7 +1,13 @@
-.theme-light{
-    --background:rgb(239, 237, 230)
+:root{
+    --red:#42b983;
+    --red-deep:#42b983;
 }
-
+.theme-light{
+    background:rgba(239, 237, 230,0.6)
+}
+html, body {
+    font-size: 1rem !important;
+}
 @media(hover: hover) {
     a:hover,.external-link:hover,.markdown-rendered .internal-link.is-unresolved:hover {
         color:var(--link-color);
