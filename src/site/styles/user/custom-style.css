@@ -9,6 +9,15 @@
 html, body {
     font-size: 1rem !important;
 }
+p.grid{
+   display: grid;
+   grid-gap: 7px;
+   grid-template-columns: repeat(auto-fill, 32%);
+}
+p.grid img{
+   object-fit:cover;
+   height:100%;
+}
 @media(hover: hover) {
     a:hover,.external-link:hover,.markdown-rendered .internal-link.is-unresolved:hover {
         color:var(--link-color);
