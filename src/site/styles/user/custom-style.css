@@ -26,6 +26,7 @@ p.grid img{
 }
 
 body nav.filetree-sidebar {
+	font-weight: 800;
 	position: fixed;
 	top: 85px;
 	left: 20px;
@@ -35,6 +36,9 @@ body nav.filetree-sidebar {
 	border-radius: 10px;
 	flex-direction: column;
 	width:300px;
+}
+.sidebar {
+    font-weight: 800;
 }
 
 body nav.filetree-sidebar .search-button {
